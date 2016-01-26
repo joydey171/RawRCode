@@ -2,7 +2,7 @@ rm(list = ls() )
 
 library( dplyr )
 
-source("link analysis functions.R")
+source("link reliability functions.R")
 
 i = 1
 
