@@ -2,7 +2,7 @@ rm(list = ls() )
 
 library( dplyr )
 
-source("link analysis functions integration.R")
+source("link analysis functions.R")
 
 i = 1
 
